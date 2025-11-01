@@ -9,7 +9,6 @@ namespace events {
     let _id: BroadcastMessage
 
 
-  //% shim=ENUM_GET
      //% blockId="events_on_receive_broadcast" block="on receive $message"
     //% color.shadow="color_enum_shim"
    //% weight=99
